@@ -1,0 +1,26 @@
+{
+  "name": "oysfze--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@mui/material": "6.1.7",
+    "@mui/icons-material": "6.1.7",
+    "@mui/system": "6.1.7",
+    "@emotion/react": "11.13.3",
+    "@emotion/styled": "11.13.0",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.6.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
